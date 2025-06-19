@@ -44,15 +44,16 @@ Analyse how different referral sources affect user behaviour and preferences for
 
 # Analysis
 ---
-![1](https://github.com/user-attachments/assets/ee44cce8-5cf6-469f-bafd-09c4de329049)
+
+![1](https://github.com/user-attachments/assets/bde1293c-7fa6-4c71-9ce5-024f33764afd)
 
 **Average time spent (mins)** - In scenario A, website users exposed to Version A spent more time on the website (average of 5 minutes) compared to scenario B (3.3 minutes), indicating that scenario A was more engaging.
 
-![2](https://github.com/user-attachments/assets/3eef0fe4-45b6-4244-8a79-9b37544df481)
+![2](https://github.com/user-attachments/assets/16e9b469-1b58-48de-a5fa-ab46107922be)
 
 **Average pages viewed** - Website users navigating scenario A viewed an average of 10 pages, while scenario B users only explored about 5 pages, showing deeper engagement with scenario A.
 
-![3](https://github.com/user-attachments/assets/1e74c1c8-a942-4595-8e75-16b425c19791)
+![3](https://github.com/user-attachments/assets/a9552103-ff62-49d5-9ac5-b42637056cf8)
 
 **Average action taken** - The number of actions taken per session was nearly the same across both scenarios, with 4.9 actions in scenario A and 5.0 in scenario B, implying comparable interaction levels
 
