@@ -25,10 +25,11 @@ DigitalPath Innovations has compiled a detailed dataset capturing user interacti
 # Analysis Goals
 ---
 The project's focus is to perform a comprehensive analysis of user behaviour across the two webpage versions, employing Tableau for visual analytics. The project's objectives include: 
+
 **Engagement Metrics Analysis**
 Assess how each webpage version impacts user engagement, as indicated by time spent on the site, pages viewed, and actions taken.
 
-**Conversaion Rate Optimisation**
+**Conversation Rate Optimisation**
 Compare the conversion funnel for both versions, analysing metrics from product views to purchase completion. 
 
 **User Feedback Analysis**
